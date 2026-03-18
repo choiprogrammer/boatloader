@@ -1,0 +1,12 @@
+{
+  "name": "BoatLoader",
+  "short_name": "BoatLoader",
+  "description": "The ultimate Minecraft modpack manager",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f1a",
+  "theme_color": "#10b981",
+  "icons": [
+    { "src": "/boat-icon.png", "sizes": "any", "type": "image/png" }
+  ]
+}
