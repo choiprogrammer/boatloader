@@ -7,6 +7,6 @@
   "background_color": "#0a0f1a",
   "theme_color": "#10b981",
   "icons": [
-    { "src": "/boat-icon.png", "sizes": "any", "type": "image/png" }
+    { "src": "./boat-icon.png", "sizes": "any", "type": "image/png" }
   ]
 }
