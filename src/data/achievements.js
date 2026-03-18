@@ -1,0 +1,17 @@
+export const ACHIEVEMENTS = [
+  { id:'first-pack', icon:'🎉', name:'Pack Pioneer', desc:'Created your first modpack', points:10 },
+  { id:'mod-collector', icon:'📦', name:'Mod Collector', desc:'Added 25 mods to your library', points:25 },
+  { id:'hoarder', icon:'🗃️', name:'Digital Hoarder', desc:'Added 50 mods to your library', points:50 },
+  { id:'compatibility', icon:'✅', name:'Compatibility King', desc:'Passed compatibility check first try', points:15 },
+  { id:'sharer', icon:'🔗', name:'Community Builder', desc:'Shared a modpack publicly', points:20 },
+  { id:'explorer', icon:'🧭', name:'Explorer', desc:'Visited all pages of the app', points:10 },
+  { id:'tech-lover', icon:'⚙️', name:'Tech Enthusiast', desc:'Added 10 Tech mods to a single modpack', points:30 },
+  { id:'five-packs', icon:'🏆', name:'Pack Master', desc:'Created 5 modpacks', points:50 },
+  { id:'rater', icon:'⭐', name:'Critic', desc:'Rated 10 mods', points:15 },
+  { id:'search-master', icon:'🔍', name:'Search Master', desc:'Used global search 20 times', points:10 },
+  { id:'dark-mode', icon:'🌙', name:'Night Owl', desc:'Switched to dark mode', points:5 },
+  { id:'export-veteran', icon:'📤', name:'Export Veteran', desc:'Exported 3 modpacks', points:20 },
+  { id:'compare', icon:'⚖️', name:'Analyst', desc:'Used the comparison tool', points:10 },
+  { id:'magic-fan', icon:'🔮', name:'Arcane Scholar', desc:'Added 5 Magic mods to a modpack', points:20 },
+  { id:'first-login', icon:'🔑', name:'Welcome!', desc:'Logged in for the first time', points:5 },
+];
